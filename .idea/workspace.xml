@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eab02cc-d639-4d3c-8f39-df1fe77a5862" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CardList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Robot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEGA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CardList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CardList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Robot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Robot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEGA.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/SEGA.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SearchBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +20,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wchamara" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1RWvDfecD5AzEjzpJCwfVvACfPr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,6 +45,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code\Complete_Web_Development_Course\untitled1\src\Containers" />
+      <recent name="D:\Code\Complete_Web_Development_Course\untitled1\src\Components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,8 +85,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569795548258</updated>
-      <workItem from="1569795549442" duration="16308000" />
+      <workItem from="1569795549442" duration="17306000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1569813143580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569813143580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
